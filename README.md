@@ -28,9 +28,8 @@ Welcome to my GitHub profile! I'm a passionate and dedicated individual with a s
 - Problem-solving approaches for complex coding challenges.
 
 ## 📫 How to reach me:
-- Email: [majayyadav1357@gmail.com](mailto:majayyadav1357@gmail.com)
-- LinkedIn: [linkedin.com/in/ajay_mudettula](https://www.linkedin.com/in/ajay_mudettula)
-- Twitter: [@AjaySmarc](https://twitter.com/AjaySmarc)
+- Email: [Gmail](mailto:majayyadav1357@gmail.com)
+- LinkedIn: [linkedin.com/in/ajay-mudettula](https://www.linkedin.com/in/ajay_mudettula)
 
 ## 😄 Pronouns: He/Him
 
