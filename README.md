@@ -30,6 +30,11 @@ I’m a passionate **Mern Developer** with expertise in **ML** and **Problem-Sol
 ---
 [![](https://visitcount.itsvg.in/api?id=AjaySmarc&icon=0&color=0)](https://visitcount.itsvg.in)
 
+
+# 📊 LeetCode Stats:
+![LeetCode Stats](https://leetcode.card.workers.dev/?username=ajay_mudettula)
+
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## 😄 Pronouns: He/Him | ⚡ Fun fact: I love solving puzzles and logic games!
