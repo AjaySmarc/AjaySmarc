@@ -32,7 +32,17 @@ I’m a passionate **Mern Developer** with expertise in **ML** and **Problem-Sol
 
 
 # 📊 LeetCode Stats:
+# LeetCode Stats
+
+## Overall Stats
 ![LeetCode Stats](https://leetcode.card.workers.dev/?username=ajay_mudettula)
+
+## Streak Stats
+![](https://nirzak-streak-stats.vercel.app/?user=ajay_mudettula&theme=dark&hide_border=false)
+
+## Top Languages
+![LeetCode Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajay_mudettula&theme=dark&hide_border=false&layout=compact)
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
