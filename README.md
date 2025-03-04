@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I’m a passionate **Web Developer** with expertise in **AI** and **Problem-Solving**. I’m always learning new technologies to build innovative solutions.
+I’m a passionate **Mern Developer** with expertise in **ML** and **Problem-Solving**. I’m always learning new technologies to build innovative solutions.
 
 ## 🔭 Currently working on:
 - Full-stack web applications using **React**, **Node.js**, and **MongoDB**.
@@ -10,7 +10,7 @@ I’m a passionate **Web Developer** with expertise in **AI** and **Problem-Solv
 ## 🌱 Currently learning:
 - Advanced **machine learning** and **deep learning** (NLP & Computer Vision).
 - **Cloud technologies** and **DevOps** practices.
-- **GraphQL** and **serverless architecture**.
+- **Data Structures and Algorithms**
 
 ## 👯 I’m open to collaboration on:
 - **Web development** projects (React, Node.js, Vue.js).
