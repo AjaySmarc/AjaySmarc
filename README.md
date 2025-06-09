@@ -88,12 +88,7 @@
 
 ---
 
-## 🎉 Achievement Badges
-<p align="center">
-  <img src="https://img.shields.io/badge/OpenSource-Contributor-blue?style=flat-square&logo=github" />
-  <img src="https://img.shields.io/badge/Hackathons-Winner-green?style=flat-square&logo=hackclub" />
-  <img src="https://img.shields.io/badge/MERN-Stack-black?style=flat-square&logo=javascript" />
-</p>
+
 
 ---
 
