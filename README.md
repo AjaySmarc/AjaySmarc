@@ -106,9 +106,8 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="Thanks GIF"/>
 </p>
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=AjaySmarc&icon=0&color=0" alt="Visitor Count"/>
-</p>
+![Visitor Count](https://profile-counter.glitch.me/AjaySmarc/count.svg)
+
 
 <p align="center">
   <b>Let’s code, connect & create magic 💡</b>
